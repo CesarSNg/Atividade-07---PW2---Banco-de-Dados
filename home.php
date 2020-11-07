@@ -27,7 +27,7 @@
 	<title>Página restrita</title>
 </head>
 <body>	
-	<h1>Olá <?php echo $dados['nomeUsu']; ?></h1>
+	<h1>Olá, <?php echo $dados['nomeUsu']; ?></h1>
 
 	<a href="logout.php">Sair</a>
 
